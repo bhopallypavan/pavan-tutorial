@@ -22,3 +22,5 @@ let addTwoNum = (a,b) =>{
 let ans = addTwoNum(3,5);
 console.log(ans);
 console.log(addTwoNum(4,6));
+
+
