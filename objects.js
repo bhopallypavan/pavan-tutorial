@@ -20,3 +20,19 @@ console.log(movie);
 movie["budget"] = "2500crores";
 movie["release"] = 2023;
 console.log(movie);
+
+// nested objcts
+let student = {
+    Name:"pavan",
+    rollnum: 23,
+    address:{
+        city:"hyderabad",
+        state:"telangana",
+
+    }
+}
+console.log(student.address);
+console.log(student);
+console.log(student.name);
+student.address.city = banglure;
+console.log(student.address.city);
