@@ -26,6 +26,12 @@ console.log(students);
 students.unshift("ravi","ramu","rajesh");
 console.log(students);
 
+//splice methos 
+//is used to add, remove or replace elements in any position
+students.splice(1,1);
+console.log(students);
+
+
 
 
 
