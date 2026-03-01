@@ -18,3 +18,8 @@ console.log("hello world");
 
 
 
+let add = (a,b) => a+b;
+console.log(add(2,10));
+
+
+console.log(typeof null);
