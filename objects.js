@@ -34,5 +34,5 @@ let student = {
 console.log(student.address);
 console.log(student);
 console.log(student.name);
-student.address.city = banglure;
+
 console.log(student.address.city);
